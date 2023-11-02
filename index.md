@@ -7,94 +7,92 @@ Engineering Biology for Climate & Sustainability: A Research Roadmap for a Clean
 
 
 
-				<article id="post-6559" class="post-6559 page type-page status-publish has-post-thumbnail hentry">
-					
-					<div class="home-roadmap pw">
-								<div class="roadmap-title plumBG white-text"><i>Engineering Biology for Climate & Sustainability</i></div>	
-						<div class="home-image"><img width="600" height="600" src="https://roadmap.ebrc.org/wp-content/uploads/2022/09/theme-wheel-web-e1663186637703-600x600.png" class="attachment-large size-large wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://roadmap.ebrc.org/wp-content/uploads/2022/09/theme-wheel-web-e1663186637703-600x600.png 600w, https://roadmap.ebrc.org/wp-content/uploads/2022/09/theme-wheel-web-e1663186637703-300x300.png 300w, https://roadmap.ebrc.org/wp-content/uploads/2022/09/theme-wheel-web-e1663186637703-150x150.png 150w, https://roadmap.ebrc.org/wp-content/uploads/2022/09/theme-wheel-web-e1663186637703-768x768.png 768w, https://roadmap.ebrc.org/wp-content/uploads/2022/09/theme-wheel-web-e1663186637703-1536x1536.png 1536w, https://roadmap.ebrc.org/wp-content/uploads/2022/09/theme-wheel-web-e1663186637703-2048x2048.png 2048w" sizes="(max-width: 600px) 100vw, 600px" /></div>
-						<div class="home-content">
-							
-							<h2 class="site-tagline"><i>Engineering Biology for Climate & Sustainability</i></h2>
-							<p><em>Engineering Biology for Climate &amp; Sustainability: A Research Roadmap for a Cleaner Future</em> is a critical assessment of opportunities for engineering biology to contribute to tackling the climate crisis and long-term sustainability of products and solutions for health and well-being of Earth and its inhabitants. This roadmap identifies novel approaches, objectives, and aims for engineering biology research in climate change mitigation and adaptation that can help to lower greenhouse gases, reduce and remove pollution, and promote biodiversity and ecosystem conservation. This roadmap also identifies opportunities for engineering biology-enabled, sustainable replacements and alternatives in the food and agriculture sector, transportation and energy sectors, and for materials and industrial processes. The roadmap’s opportunities and objectives are laid out as short-, medium-, and long-term milestones, to address the challenges of climate change and sustainability with both urgency and persistent ambition and vision for the development and translation of engineering biology tools to technologies and products for the current and next-generation bioeconomy.</p>
+<article id="post-6559" class="post-6559 page type-page status-publish has-post-thumbnail hentry">         
+    <div class="home-roadmap pw">
+        <div class="roadmap-title plumBG white-text"><i>Engineering Biology for Climate & Sustainability</i></div>	
+            <div class="home-image"><img width="600" height="600" src="https://roadmap.ebrc.org/wp-content/uploads/2022/09/theme-wheel-web-e1663186637703-600x600.png" class="attachment-large size-large wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://roadmap.ebrc.org/wp-content/uploads/2022/09/theme-wheel-web-e1663186637703-600x600.png 600w, https://roadmap.ebrc.org/wp-content/uploads/2022/09/theme-wheel-web-e1663186637703-300x300.png 300w, https://roadmap.ebrc.org/wp-content/uploads/2022/09/theme-wheel-web-e1663186637703-150x150.png 150w, https://roadmap.ebrc.org/wp-content/uploads/2022/09/theme-wheel-web-e1663186637703-768x768.png 768w, https://roadmap.ebrc.org/wp-content/uploads/2022/09/theme-wheel-web-e1663186637703-1536x1536.png 1536w, https://roadmap.ebrc.org/wp-content/uploads/2022/09/theme-wheel-web-e1663186637703-2048x2048.png 2048w" sizes="(max-width: 600px) 100vw, 600px" /></div>
+                <div class="home-content">   
+                    <h2 class="site-tagline"><i>Engineering Biology for Climate & Sustainability</i></h2>
+                    <p><em>Engineering Biology for Climate &amp; Sustainability: A Research Roadmap for a Cleaner Future</em> is a critical assessment of opportunities for engineering biology to contribute to tackling the climate crisis and long-term sustainability of products and solutions for health and well-being of Earth and its inhabitants. This roadmap identifies novel approaches, objectives, and aims for engineering biology research in climate change mitigation and adaptation that can help to lower greenhouse gases, reduce and remove pollution, and promote biodiversity and ecosystem conservation. This roadmap also identifies opportunities for engineering biology-enabled, sustainable replacements and alternatives in the food and agriculture sector, transportation and energy sectors, and for materials and industrial processes. The roadmap’s opportunities and objectives are laid out as short-, medium-, and long-term milestones, to address the challenges of climate change and sustainability with both urgency and persistent ambition and vision for the development and translation of engineering biology tools to technologies and products for the current and next-generation bioeconomy.</p>
 <p><a href="https://roadmap.ebrc.org/engineering-biology-for-climate-sustainability/about/">More about <em>Engineering Biology for Climate &amp; Sustainability</em></a></p>
 <p><a class="button-link" href="https://roadmap.ebrc.org/executive-summary/">View the Executive Summary</a></p>
-						</div>
-				</div>
-			
-					<div class="entry-content">
-					<h2>Technical Themes</h2>
-					<p>The roadmap&#8217;s technical themes focus on novel capabilities to mitigate and adapt to the effects of climate change and build and ensure resilient ecosystems. The <strong>Biosequestration of Greenhouse Gases</strong> theme addresses opportunities to capture and remove carbon dioxide, methane, and other harmful gases from the atmosphere and enable and strengthen carbon storage and conversion. The <strong>Mitigation of Environmental Pollution</strong> theme highlights opportunities to prevent and tackle pollution through bioremediation, biosequestration, and biodegradation of contaminants in the environment and from point-sources. And the <strong>Conservation of Ecosystems and Biodiversity</strong> theme addresses opportunities for engineering biology to contribute to the monitoring of ecosystem members and their health, distribution, and diversity, and pinpoints the need for strong biocontainment strategies that are necessary for all engineering biology applications.</p>
-					
-					
-					<ul class="post-boxes">
-												
-						<li class="pb-4x pb-button"><a href="https://roadmap.ebrc.org/engineering-biology-for-climate-sustainability/technical-themes/biosequestration-of-greenhouse-gases/">
-										
-											<div class="pb-content"><div class="pb-cell">
-												<h1>Biosequestration of Greenhouse Gases</h1>
-								  				<h4><p>Addresses engineering biology opportunities to capture and remove carbon dioxide, methane, and other harmful gases from the atmosphere and enable and strengthen carbon storage and conversion.</p>
+                </div>
+        </div>
+    
+            <div class="entry-content">
+            <h2>Technical Themes</h2>
+            <p>The roadmap&#8217;s technical themes focus on novel capabilities to mitigate and adapt to the effects of climate change and build and ensure resilient ecosystems. The <strong>Biosequestration of Greenhouse Gases</strong> theme addresses opportunities to capture and remove carbon dioxide, methane, and other harmful gases from the atmosphere and enable and strengthen carbon storage and conversion. The <strong>Mitigation of Environmental Pollution</strong> theme highlights opportunities to prevent and tackle pollution through bioremediation, biosequestration, and biodegradation of contaminants in the environment and from point-sources. And the <strong>Conservation of Ecosystems and Biodiversity</strong> theme addresses opportunities for engineering biology to contribute to the monitoring of ecosystem members and their health, distribution, and diversity, and pinpoints the need for strong biocontainment strategies that are necessary for all engineering biology applications.</p>
+            
+            
+            <ul class="post-boxes">
+                                        
+                <li class="pb-4x pb-button"><a href="https://roadmap.ebrc.org/engineering-biology-for-climate-sustainability/technical-themes/biosequestration-of-greenhouse-gases/">
+                                
+                                    <div class="pb-content"><div class="pb-cell">
+                                        <h1>Biosequestration of Greenhouse Gases</h1>
+                                        <h4><p>Addresses engineering biology opportunities to capture and remove carbon dioxide, methane, and other harmful gases from the atmosphere and enable and strengthen carbon storage and conversion.</p>
 </h4>
-											</div></div>	
-											</a></li>
-						
-												
-						<li class="pb-4x pb-button"><a href="https://roadmap.ebrc.org/engineering-biology-for-climate-sustainability/technical-themes/mitigating-environmental-pollution/">
-										
-											<div class="pb-content"><div class="pb-cell">
-												<h1>Mitigating Environmental Pollution</h1>
-								  				<h4><p>Addresses engineering biology opportunities to prevent and tackle pollution through bioremediation, biosequestration, and biodegradation of contaminants.</p>
+                                    </div></div>	
+                                    </a></li>
+                
+                                        
+                <li class="pb-4x pb-button"><a href="https://roadmap.ebrc.org/engineering-biology-for-climate-sustainability/technical-themes/mitigating-environmental-pollution/">
+                                
+                                    <div class="pb-content"><div class="pb-cell">
+                                        <h1>Mitigating Environmental Pollution</h1>
+                                        <h4><p>Addresses engineering biology opportunities to prevent and tackle pollution through bioremediation, biosequestration, and biodegradation of contaminants.</p>
 </h4>
-											</div></div>	
-											</a></li>
-						
-												
-						<li class="pb-4x pb-button"><a href="https://roadmap.ebrc.org/engineering-biology-for-climate-sustainability/technical-themes/conservation-of-ecosystems-and-biodiversity/">
-										
-											<div class="pb-content"><div class="pb-cell">
-												<h1>Conservation of Ecosystems and Biodiversity</h1>
-								  				<h4><p>Addresses engineering biology opportunities for monitoring of ecosystems and their health, distribution, and diversity, and for strong biocontainment strategies.</p>
+                                    </div></div>	
+                                    </a></li>
+                
+                                        
+                <li class="pb-4x pb-button"><a href="https://roadmap.ebrc.org/engineering-biology-for-climate-sustainability/technical-themes/conservation-of-ecosystems-and-biodiversity/">
+                                
+                                    <div class="pb-content"><div class="pb-cell">
+                                        <h1>Conservation of Ecosystems and Biodiversity</h1>
+                                        <h4><p>Addresses engineering biology opportunities for monitoring of ecosystems and their health, distribution, and diversity, and for strong biocontainment strategies.</p>
 </h4>
-											</div></div>	
-											</a></li>
-						
-												
-						
-						</ul>
-										
-					
-				<div class="cb"></div></div>
-					
-				<div class="entry-content">
-					<h2>Applications &amp; Impact Sectors</h2>
-					<p>The roadmap also focuses on climate-friendly, sustainable products and solutions for chief engineering biology application sectors. The <strong>Food &amp; Agriculture</strong> theme addresses specific opportunities to reduce greenhouse gas emissions from food production and waste and towards making agriculture and food systems more robust to climate change. The <strong>Transportation &amp; Energy</strong> theme addresses opportunities in biofuels, electricity production and storage, and reducing emissions from transportation, shipping, and aviation. Finally, the <strong>Materials Production &amp; Industrial Processes</strong> theme identifies opportunities in the built environment, textiles, and other consumer products for reducing the anthropogenic carbon footprint, reducing toxins and wastes, and recovering economically-valuable resources sustainably.</p>
-					
-					<ul class="post-boxes">
-													<li class="pb-5x pb-button"><a href="https://roadmap.ebrc.org/engineering-biology-for-climate-sustainability/application-sectors/food-agriculture/">
-										<div class="post-thumbnail"><img width="150" height="150" src="https://roadmap.ebrc.org/wp-content/uploads/2020/10/FoodAgriculture_Icon_Green-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" srcset="https://roadmap.ebrc.org/wp-content/uploads/2020/10/FoodAgriculture_Icon_Green-150x150.png 150w, https://roadmap.ebrc.org/wp-content/uploads/2020/10/FoodAgriculture_Icon_Green-300x300.png 300w, https://roadmap.ebrc.org/wp-content/uploads/2020/10/FoodAgriculture_Icon_Green-600x600.png 600w, https://roadmap.ebrc.org/wp-content/uploads/2020/10/FoodAgriculture_Icon_Green.png 751w" sizes="(max-width: 150px) 100vw, 150px" /></div>
-											<h1>Food &#038; Agriculture</h1>
-							</a></li>
-												<li class="pb-5x pb-button"><a href="https://roadmap.ebrc.org/engineering-biology-for-climate-sustainability/application-sectors/transportation-energy/">
-										<div class="post-thumbnail"><img width="150" height="150" src="https://roadmap.ebrc.org/wp-content/uploads/2019/02/lightbulb-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Energy" decoding="async" srcset="https://roadmap.ebrc.org/wp-content/uploads/2019/02/lightbulb-150x150.png 150w, https://roadmap.ebrc.org/wp-content/uploads/2019/02/lightbulb-300x300.png 300w, https://roadmap.ebrc.org/wp-content/uploads/2019/02/lightbulb.png 360w" sizes="(max-width: 150px) 100vw, 150px" /></div>
-											<h1>Transportation &#038; Energy</h1>
-							</a></li>
-												<li class="pb-5x pb-button"><a href="https://roadmap.ebrc.org/engineering-biology-for-climate-sustainability/application-sectors/materials-production-industrial-processes/">
-										<div class="post-thumbnail"><img width="150" height="150" src="https://roadmap.ebrc.org/wp-content/uploads/2019/06/ind-bio-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://roadmap.ebrc.org/wp-content/uploads/2019/06/ind-bio-150x150.png 150w, https://roadmap.ebrc.org/wp-content/uploads/2019/06/ind-bio-300x300.png 300w, https://roadmap.ebrc.org/wp-content/uploads/2019/06/ind-bio.png 360w" sizes="(max-width: 150px) 100vw, 150px" /></div>
-											<h1>Materials Production &#038; Industrial Processes</h1>
-							</a></li>
-												</ul>
-										
-			<div class="cb"></div></div>
-					
-					
-		
-        
- 
-        	
-			<div class="entry-content">
-			<h2>Social and Nontechnical Dimensions Case Studies</h2><p>The social and nontechnical dimensions case studies provide context and framing for the questions and considerations that can be asked and addressed during research and development, and are intended to be used as a discussion and learning tool by engineering biology researchers and their collaborators.</p>
+                                    </div></div>	
+                                    </a></li>
+                
+                                        
+                
+                </ul>
+                                
+            
+        <div class="cb"></div></div>
+            
+        <div class="entry-content">
+            <h2>Applications &amp; Impact Sectors</h2>
+            <p>The roadmap also focuses on climate-friendly, sustainable products and solutions for chief engineering biology application sectors. The <strong>Food &amp; Agriculture</strong> theme addresses specific opportunities to reduce greenhouse gas emissions from food production and waste and towards making agriculture and food systems more robust to climate change. The <strong>Transportation &amp; Energy</strong> theme addresses opportunities in biofuels, electricity production and storage, and reducing emissions from transportation, shipping, and aviation. Finally, the <strong>Materials Production &amp; Industrial Processes</strong> theme identifies opportunities in the built environment, textiles, and other consumer products for reducing the anthropogenic carbon footprint, reducing toxins and wastes, and recovering economically-valuable resources sustainably.</p>
+            
+            <ul class="post-boxes">
+                                            <li class="pb-5x pb-button"><a href="https://roadmap.ebrc.org/engineering-biology-for-climate-sustainability/application-sectors/food-agriculture/">
+                                <div class="post-thumbnail"><img width="150" height="150" src="https://roadmap.ebrc.org/wp-content/uploads/2020/10/FoodAgriculture_Icon_Green-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" srcset="https://roadmap.ebrc.org/wp-content/uploads/2020/10/FoodAgriculture_Icon_Green-150x150.png 150w, https://roadmap.ebrc.org/wp-content/uploads/2020/10/FoodAgriculture_Icon_Green-300x300.png 300w, https://roadmap.ebrc.org/wp-content/uploads/2020/10/FoodAgriculture_Icon_Green-600x600.png 600w, https://roadmap.ebrc.org/wp-content/uploads/2020/10/FoodAgriculture_Icon_Green.png 751w" sizes="(max-width: 150px) 100vw, 150px" /></div>
+                                    <h1>Food &#038; Agriculture</h1>
+                    </a></li>
+                                        <li class="pb-5x pb-button"><a href="https://roadmap.ebrc.org/engineering-biology-for-climate-sustainability/application-sectors/transportation-energy/">
+                                <div class="post-thumbnail"><img width="150" height="150" src="https://roadmap.ebrc.org/wp-content/uploads/2019/02/lightbulb-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Energy" decoding="async" srcset="https://roadmap.ebrc.org/wp-content/uploads/2019/02/lightbulb-150x150.png 150w, https://roadmap.ebrc.org/wp-content/uploads/2019/02/lightbulb-300x300.png 300w, https://roadmap.ebrc.org/wp-content/uploads/2019/02/lightbulb.png 360w" sizes="(max-width: 150px) 100vw, 150px" /></div>
+                                    <h1>Transportation &#038; Energy</h1>
+                    </a></li>
+                                        <li class="pb-5x pb-button"><a href="https://roadmap.ebrc.org/engineering-biology-for-climate-sustainability/application-sectors/materials-production-industrial-processes/">
+                                <div class="post-thumbnail"><img width="150" height="150" src="https://roadmap.ebrc.org/wp-content/uploads/2019/06/ind-bio-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://roadmap.ebrc.org/wp-content/uploads/2019/06/ind-bio-150x150.png 150w, https://roadmap.ebrc.org/wp-content/uploads/2019/06/ind-bio-300x300.png 300w, https://roadmap.ebrc.org/wp-content/uploads/2019/06/ind-bio.png 360w" sizes="(max-width: 150px) 100vw, 150px" /></div>
+                                    <h1>Materials Production &#038; Industrial Processes</h1>
+                    </a></li>
+                                        </ul>
+                                
+    <div class="cb"></div></div>
+            
+            
+
+
+
+    
+    <div class="entry-content">
+    <h2>Social and Nontechnical Dimensions Case Studies</h2><p>The social and nontechnical dimensions case studies provide context and framing for the questions and considerations that can be asked and addressed during research and development, and are intended to be used as a discussion and learning tool by engineering biology researchers and their collaborators.</p>
 <p><a class="button-link" href="https://roadmap.ebrc.org/engineering-biology-for-climate-sustainability/social-and-nontechnical-dimensions-case-studies/"><strong>View the Case Studies</strong></a></p>
-			
-		</div>
+    
+</div>
 
 <!--***DYNAMIC POSTS***-->
         
