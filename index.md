@@ -14,36 +14,36 @@ Engineering Biology for Climate & Sustainability: A Research Roadmap for a Clean
                 <div class="home-content">   
                     <h2 class="site-tagline"><i>Engineering Biology for Climate & Sustainability</i></h2>
                     <p><em>Engineering Biology for Climate &amp; Sustainability: A Research Roadmap for a Cleaner Future</em> is a critical assessment of opportunities for engineering biology to contribute to tackling the climate crisis and long-term sustainability of products and solutions for health and well-being of Earth and its inhabitants. This roadmap identifies novel approaches, objectives, and aims for engineering biology research in climate change mitigation and adaptation that can help to lower greenhouse gases, reduce and remove pollution, and promote biodiversity and ecosystem conservation. This roadmap also identifies opportunities for engineering biology-enabled, sustainable replacements and alternatives in the food and agriculture sector, transportation and energy sectors, and for materials and industrial processes. The roadmap’s opportunities and objectives are laid out as short-, medium-, and long-term milestones, to address the challenges of climate change and sustainability with both urgency and persistent ambition and vision for the development and translation of engineering biology tools to technologies and products for the current and next-generation bioeconomy.</p>
-<p><a href="https://roadmap.ebrc.org/engineering-biology-for-climate-sustainability/about/">More about <em>Engineering Biology for Climate &amp; Sustainability</em></a></p>
-<p><a class="button-link" href="https://roadmap.ebrc.org/executive-summary/">View the Executive Summary</a></p>
+                    <p><a href="https://roadmap.ebrc.org/engineering-biology-for-climate-sustainability/about/">More about <em>Engineering Biology for Climate &amp; Sustainability</em></a></p>
+                    <p><a class="button-link" href="https://roadmap.ebrc.org/executive-summary/">View the Executive Summary</a></p>
                 </div>
-        </div>
-    
+            </div>
             <div class="entry-content">
-            <h2>Technical Themes</h2>
-            <p>The roadmap&#8217;s technical themes focus on novel capabilities to mitigate and adapt to the effects of climate change and build and ensure resilient ecosystems. The <strong>Biosequestration of Greenhouse Gases</strong> theme addresses opportunities to capture and remove carbon dioxide, methane, and other harmful gases from the atmosphere and enable and strengthen carbon storage and conversion. The <strong>Mitigation of Environmental Pollution</strong> theme highlights opportunities to prevent and tackle pollution through bioremediation, biosequestration, and biodegradation of contaminants in the environment and from point-sources. And the <strong>Conservation of Ecosystems and Biodiversity</strong> theme addresses opportunities for engineering biology to contribute to the monitoring of ecosystem members and their health, distribution, and diversity, and pinpoints the need for strong biocontainment strategies that are necessary for all engineering biology applications.</p>
-            
-            
-            <ul class="post-boxes">
-                                        
-                <li class="pb-4x pb-button"><a href="https://roadmap.ebrc.org/engineering-biology-for-climate-sustainability/technical-themes/biosequestration-of-greenhouse-gases/">
-                                
-                                    <div class="pb-content"><div class="pb-cell">
-                                        <h1>Biosequestration of Greenhouse Gases</h1>
-                                        <h4><p>Addresses engineering biology opportunities to capture and remove carbon dioxide, methane, and other harmful gases from the atmosphere and enable and strengthen carbon storage and conversion.</p>
-</h4>
-                                    </div></div>	
-                                    </a></li>
-                
-                                        
-                <li class="pb-4x pb-button"><a href="https://roadmap.ebrc.org/engineering-biology-for-climate-sustainability/technical-themes/mitigating-environmental-pollution/">
-                                
-                                    <div class="pb-content"><div class="pb-cell">
-                                        <h1>Mitigating Environmental Pollution</h1>
-                                        <h4><p>Addresses engineering biology opportunities to prevent and tackle pollution through bioremediation, biosequestration, and biodegradation of contaminants.</p>
-</h4>
-                                    </div></div>	
-                                    </a></li>
+                <h2>Technical Themes</h2>
+                <p>The roadmap&#8217;s technical themes focus on novel capabilities to mitigate and adapt to the effects of climate change and build and ensure resilient ecosystems. The <strong>Biosequestration of Greenhouse Gases</strong> theme addresses opportunities to capture and remove carbon dioxide, methane, and other harmful gases from the atmosphere and enable and strengthen carbon storage and conversion. The <strong>Mitigation of Environmental Pollution</strong> theme highlights opportunities to prevent and tackle pollution through bioremediation, biosequestration, and biodegradation of contaminants in the environment and from point-sources. And the <strong>Conservation of Ecosystems and Biodiversity</strong> theme addresses opportunities for engineering biology to contribute to the monitoring of ecosystem members and their health, distribution, and diversity, and pinpoints the need for strong biocontainment strategies that are necessary for all engineering biology applications.</p>
+            <ul class="post-boxes">                          
+                <li class="pb-4x pb-button">
+                    <a href="https://roadmap.ebrc.org/engineering-biology-for-climate-sustainability/technical-themes/biosequestration-of-greenhouse-gases/">                  
+                        <div class="pb-content">
+                            <div class="pb-cell">
+                                <h1>Biosequestration of Greenhouse Gases</h1>
+                                <h4><p>Addresses engineering biology opportunities to capture and remove carbon dioxide, methane, and other harmful gases from the atmosphere and enable and strengthen carbon storage and conversion.</p></h4>
+                            </div>
+                        </div>	
+                    </a>
+                </li>                                   
+                <li class="pb-4x pb-button">
+                    <a href="https://roadmap.ebrc.org/engineering-biology-for-climate-sustainability/technical-themes/mitigating-environmental-pollution/">
+                        <div class="pb-content">
+                            <div class="pb-cell">
+                                <h1>Mitigating Environmental Pollution</h1>
+                                    <h4>
+                                        <p>Addresses engineering biology opportunities to prevent and tackle pollution through bioremediation, biosequestration, and biodegradation of contaminants.</p>
+                                    </h4>
+                            </div>
+                        </div>	
+                    </a>
+                </li>
                 
                                         
                 <li class="pb-4x pb-button"><a href="https://roadmap.ebrc.org/engineering-biology-for-climate-sustainability/technical-themes/conservation-of-ecosystems-and-biodiversity/">
