@@ -4,8 +4,8 @@
 body {
   background-color: rgb(255, 255, 255);
   padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
+  font: 18px/1.4 'Roboto', Arial, Verdana, sans-serif;
+  color:#4d4d4d;
   font-weight:400;
 }
 
@@ -28,6 +28,14 @@ h1 {
 
 h2 {
   color:#393939;
+}
+h2::after {
+    content: "";
+    display: block;
+    height: 10px;
+    width: 290px;
+    background: #103f68;
+    margin: 10px 0 30px;
 }
 
 h3, h4, h5, h6 {
